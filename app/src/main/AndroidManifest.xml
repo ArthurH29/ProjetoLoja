@@ -18,32 +18,7 @@
         </activity>
         <activity
                 android:name=".PASX"
-                android:label="PA SX ZN UNC">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-
-                <category android:name="android.intent.category.LAUNCHER"/>
-            </intent-filter>
-        </activity>
-        <activity android:name=".especificacoes1"
-                  android:label="PA SX ZN UNC">
-
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-
-                <category android:name="android.intent.category.LAUNCHER"/>
-            </intent-filter>
-        </activity>
-        <activity android:name=".pachrsma"
-                  android:label="PA CH RS MA">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-
-                <category android:name="android.intent.category.LAUNCHER"/>
-            </intent-filter>
-        </activity>
-        <activity android:name=".especificacoes6"
-                    android:label="PA CH RS MA">
+                android:label="Produtos">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
